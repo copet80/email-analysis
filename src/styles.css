@@ -1,0 +1,13 @@
+html,
+body {
+  overflow-x: hidden;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.introduction {
+  color: blue;
+}
